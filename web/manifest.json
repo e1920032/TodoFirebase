@@ -1,6 +1,6 @@
 {
-    "name": "keijiban",
-    "short_name": "keijiban",
+    "name": "TodoFirebase",
+    "short_name": "TodoFirebase",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
